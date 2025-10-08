@@ -1,0 +1,50 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. Does your mobile dental cleaning come with an extra cost compared to in-office service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, but just a little. Since we’re bringing the service straight to your doorstep, there’s a small extra cost to cover transportation and setup. Still, it’s designed to be affordable and convenient, so you enjoy the same professional care without feeling the difference in your pocket.</p>
+                <h4 class="template4 palooma">2. Can you handle complex dental issues at your mobile dental cleaning service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our mobile service is mainly focused on professional teeth cleaning, polishing, and early detection of dental problems. For more complex treatments that require specialized equipment, we’ll guide you to the nearest clinic in #State so you get the right care without delay.</p>
+                <h4 class="template4 palooma">3. Who benefits the most from mobile dental cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Everyone can book it, but it’s especially helpful for seniors, busy professionals, families with young kids, or anyone who finds it difficult to make time for an in-office appointment.</p>
+                <h4 class="template4 palooma">4. If I brush and floss daily, do I still need to visit for a teeth cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you do. Brushing and flossing at home cleans the surface level of your teeth, whereas our teeth cleaning service removes plaque and tartar buildup in areas that your toothbrush and floss cannot fully reach, particularly along the gumline and between teeth. A professional teeth cleaning service from Teeth Cleaning #State helps prevent gum disease, bad breath, and even tooth loss.</p>
+                <h4 class="template4 palooma">5. If I don’t have gum disease, do I need to visit for a teeth cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you still do. Teeth cleaning isn’t only for people with gum disease; it’s for keeping your mouth healthy enough to prevent it in the first place. Make it a routine maintenance to be done within 3 and 6 months to make sure dental problems don’t sneak up on you later.</p>
+                <h4 class="template4 palooma">6. Does your mobile dental cleaning come with an extra cost compared to in-office service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, but just a little. Since we’re bringing the service straight to your doorstep, there’s a small extra cost to cover transportation and setup. Still, it’s designed to be affordable and convenient, so you enjoy the same professional care without feeling the difference in your pocket.</p>
+                <div class="callalooma mx-auto"><a href="tel:205-892-0206">Click Here To Call Us (205) 892-0206</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
